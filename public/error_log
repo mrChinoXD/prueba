@@ -1,0 +1,1 @@
+[24-Mar-2021 17:43:34 America/Mexico_City] PHP Fatal error:  Cannot redeclare App\Http\Controllers\HometestController::suma() in /home/jaroqcff/ciemi.jarochosdevs.com/app/Http/Controllers/hometestController.php on line 17
